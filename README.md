@@ -1,4 +1,4 @@
-# git-lab-TYCO-A
+# git-lab-TYCO
 Version Control Training Project
 # Student DevOps Project
 
