@@ -1,5 +1,5 @@
 # git-lab-TYCO-A
-Version control training project
+Version Control Training Project
 # Student DevOps Project
 
 ## Purpose
