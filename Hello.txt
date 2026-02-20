@@ -2,3 +2,4 @@ Welcome to DevOps Lab.
 This is my first Git commit.
 Learning version control step by step.
 Added line from feature-1 branch.
+Added line from master branch.
